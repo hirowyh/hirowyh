@@ -11,13 +11,27 @@ Hi, I'm Yorihiro (よりひろ). I run community operations for AI-native produc
 
 I'm not a designer, and I wanted what I build to move as if a designer had made it. So with Claude I made [settle](https://github.com/hirowyh/settle), my first project: describe a button, a chart or a card in plain words, and your coding agent builds it with motion that settles.
 
-<p align="center">
-<a href="https://github.com/hirowyh/settle"><img src="media/download-settle.gif" width="400" alt="A Download button settle made from one plain sentence: it fills as the percentage counts up, then reads Downloaded"></a>
-</p>
-
     npx skills@latest add hirowyh/settle
 
+<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="media/log-still-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="media/log-still-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="media/log-dark.gif">
+  <img src="media/log-light.gif" width="720" alt="git log --reverse --oneline: websites and small apps, built but never published; settle, my first public project; next: help an open-source project">
+</picture>
+</p>
+
 Next, I want to help open-source projects that already exist, and build more with Claude. If your project needs someone who talks with users or tries things the way a beginner would, write to me.
+
+<p align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="media/route-still-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="media/route-still-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="media/route-dark.gif">
+  <img src="media/route-light.gif" width="720" alt="A route map of my coding: a violet line leaves settle, where I started, and a train stops on its way to open source, with two unnamed stations ahead">
+</picture>
+</p>
 
 <p align="center">
 <a href="mailto:hiro@42yorozu.com"><img src="https://img.shields.io/badge/email-hiro%4042yorozu.com-6C5FC7?style=for-the-badge&labelColor=231D19&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSI1IiB3aWR0aD0iMTgiIGhlaWdodD0iMTQiIHJ4PSIyIi8+PHBhdGggZD0iTTMuNSA3bDguNSA2IDguNS02Ii8+PC9zdmc+" alt="Email hiro@42yorozu.com"></a>
@@ -87,4 +101,4 @@ Next, I want to help open-source projects that already exist, and build more wit
 </picture>
 </p>
 
-<p align="center"><sub>The banner and this footer were made by settle, each from a single prompt.</sub></p>
+<p align="center"><sub>The banner, the log, the route map and this footer were each made by settle from a single prompt.</sub></p>
