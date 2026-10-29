@@ -1,0 +1,46 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-noren-light.svg",
+    "backgroundColor": "#ECE8E1",
+    "foregroundColor": "#231D19",
+    "strongColor": "#5B3626",
+    "weakColor": "#8A8078",
+    "radarColor": "#5B3626",
+    "growingAnimation": true,
+    "contribColors": ["#DDD8CF", "#C9B29E", "#A57C61", "#7E5038", "#5B3626"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-noren-light-still.svg",
+    "backgroundColor": "#ECE8E1",
+    "foregroundColor": "#231D19",
+    "strongColor": "#5B3626",
+    "weakColor": "#8A8078",
+    "radarColor": "#5B3626",
+    "growingAnimation": false,
+    "contribColors": ["#DDD8CF", "#C9B29E", "#A57C61", "#7E5038", "#5B3626"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-noren-dark.svg",
+    "backgroundColor": "#1B1815",
+    "foregroundColor": "#EDE6DA",
+    "strongColor": "#B07A5A",
+    "weakColor": "#A79E93",
+    "radarColor": "#B07A5A",
+    "growingAnimation": true,
+    "contribColors": ["#332E2A", "#5A3D2E", "#74503A", "#8C5A40", "#B07A5A"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-noren-dark-still.svg",
+    "backgroundColor": "#1B1815",
+    "foregroundColor": "#EDE6DA",
+    "strongColor": "#B07A5A",
+    "weakColor": "#A79E93",
+    "radarColor": "#B07A5A",
+    "growingAnimation": false,
+    "contribColors": ["#332E2A", "#5A3D2E", "#74503A", "#8C5A40", "#B07A5A"]
+  }
+]
